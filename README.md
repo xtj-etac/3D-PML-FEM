@@ -15,8 +15,8 @@ Tianhe-2 Supercomputer
 # Getting Started
 ## Installation
 Clone  
-$ git clone https://github.com/  
-$ cd PML
+$ git clone https://github.com/xtj-etac/3D-PML-FEM.git  
+$ cd 3D-PML-FEM
 
 ## Configure your environment
 1、You will need to install the following external libraries:  
