@@ -1,10 +1,16 @@
 # 3D-PML-FEM
-$ title: Parallel finite element forward modeling of 3-D magnetotelluric conductivity and permeability anisotropy with coupled PML boundary conditions  
-$ Name of the code/library: 3D-PML-FEM  
-$ Contact: e-mail xiaotiaojie@nudt.edu.cn  
-$ Hardware requirements: Tianhe-2 Supercomputer
+## title:
+Parallel finite element forward modeling of 3-D magnetotelluric conductivity and permeability anisotropy with coupled PML boundary conditions  
 
-This code is for the coupled PML (Perfectly Matched Layer) three-dimensional magnetotelluric anisotropic parallel finite element forward modeling, which includes a single-frequency point parallel test case for model 3 (Figure 11 in the paper). The 'data' directory contains the input files, and the 'outfile' directory contains the output files, which output phase and apparent resistivity. Please note that due to time constraints, this code is only an initial version.  
+This code is for the coupled PML (Perfectly Matched Layer) three-dimensional magnetotelluric anisotropic parallel finite element forward modeling, which includes a single-frequency point parallel test case for model 3 (Figure 11 in the paper). The 'data' directory contains the input files, and the 'outfile' directory contains the output files, which output phase and apparent resistivity.The test time output containing a test case is in the log-1.out file. Please note that due to time constraints, this code is only an initial version.  
+## Name of the code/library:
+3D-PML-FEM     
+## Contact:   
+e-mail xiaotiaojie@nudt.edu.cn    
+## Hardware requirements:   
+Tianhe-2 Supercomputer   
+
+
 
 # Getting Started
 ## Installation
