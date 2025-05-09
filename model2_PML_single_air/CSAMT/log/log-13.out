@@ -1,0 +1,49 @@
+Initial Memory Usage:17756.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+_fmodel_time=0.011851
+开始计算v0
+_v0_time=7.757857
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+A solve time(MPI):50.853254 
+countbuf=0
+A_Ep and boundary time(MPI):0.239148 
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+B solve time(MPI):41.616525 
+B_Ep and boundary time(MPI):0.392223 
+start startrho fmodel.NX=32
+s=0
+start for循环
+PhaseXX mid: 44.087421
+PhaseXY mid: 45.050840
+PhaseYX mid: 45.059680
+PhaseYY mid: 43.857586
+RseXX mid: 0.002998
+RseXY mid: 91.575546
+RseYX mid: 92.692932
+RseYY mid: 0.005655
+Post-processing_time=0.039400
+===fmodel time(MPI):100.937568 seconds
+Memory Usage after allocation: 3.20795e+06 KB

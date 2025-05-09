@@ -1,0 +1,389 @@
+Initial Memory Usage: 8096 KB
+Initial Memory Usage: 8092 KB
+Initial Memory Usage: 8092 KB
+Initial Memory Usage: 8164 KB
+Initial Memory Usage: 8128 KB
+Initial Memory Usage: 7936 KB
+Initial Memory Usage: 8096 KB
+Initial Memory Usage: 7992 KB
+Initial Memory Usage: 8084 KB
+Initial Memory Usage: 8216 KB
+Initial Memory Usage: 8164 KB
+Initial Memory Usage: 8288 KB
+Initial Memory Usage: 8068 KB
+Initial Memory Usage: 8204 KB
+Initial Memory Usage: 8140 KB
+Initial Memory Usage: 8164 KB
+Initial Memory Usage: 8036 KB
+Initial Memory Usage: 7996 KB
+Initial Memory Usage: 8096 KB
+Initial Memory Usage: 7968 KB
+Initial Memory Usage: 8060 KB
+Initial Memory Usage: 8076 KB
+Initial Memory Usage: 8044 KB
+Initial Memory Usage: 7988 KB
+Initial Memory Usage: 8024 KB
+Initial Memory Usage: 8068 KB
+Initial Memory Usage: 7880 KB
+Initial Memory Usage: 8004 KB
+Initial Memory Usage: 8088 KB
+Initial Memory Usage: 7860 KB
+Initial Memory Usage: 8028 KB
+Initial Memory Usage: 7932 KB
+Initial Memory Usage: 8040 KB
+Initial Memory Usage: 7936 KB
+Initial Memory Usage: 7956 KB
+Initial Memory Usage: 8100 KB
+Initial Memory Usage: 7980 KB
+Initial Memory Usage: 8060 KB
+Initial Memory Usage: 8004 KB
+Initial Memory Usage: 7932 KB
+Initial Memory Usage: 7920 KB
+Initial Memory Usage: 8072 KB
+Initial Memory Usage: 7920 KB
+Initial Memory Usage: 7952 KB
+Initial Memory Usage: 8080 KB
+Initial Memory Usage: 8156 KB
+Initial Memory Usage: 8124 KB
+Initial Memory Usage: 8184 KB
+Initial Memory Usage: 8096 KB
+Initial Memory Usage: 7880 KB
+Initial Memory Usage: 8032 KB
+Initial Memory Usage: 8044 KB
+Initial Memory Usage: 7976 KB
+Initial Memory Usage: 7824 KB
+Initial Memory Usage: 7980 KB
+Initial Memory Usage: 7976 KB
+Initial Memory Usage: 7988 KB
+Initial Memory Usage: 8068 KB
+Initial Memory Usage: 8124 KB
+Initial Memory Usage: 8144 KB
+Initial Memory Usage: 8068 KB
+Initial Memory Usage: 8044 KB
+Initial Memory Usage: 8112 KB
+Initial Memory Usage: 8012 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+Freq=1  rank=0 f[Freq]=0.250000
+start fmodel
+Freq=2  rank=0 f[Freq]=0.375000
+start fmodel
+Freq=3  rank=0 f[Freq]=0.500000
+start fmodel
+Freq=4  rank=0 f[Freq]=0.625000
+start fmodel
+Freq=5  rank=0 f[Freq]=0.750000
+start fmodel
+Freq=6  rank=0 f[Freq]=0.875000
+start fmodel
+Freq=7  rank=0 f[Freq]=1.000000
+start fmodel
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+_v0_time=0.954464
+_v0_time=0.957279
+_v0_time=0.958144
+_v0_time=0.961990
+_v0_time=0.980238
+_v0_time=0.980297
+_v0_time=0.985712
+_v0_time=1.019806
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+V1+P solve time(MPI):13.854961 
+countbuf=0
+V1+P solve time(MPI):13.900269 
+countbuf=0
+V1+P solve time(MPI):14.018665 
+countbuf=0
+V1+P solve time(MPI):13.970690 
+countbuf=0
+V1+P solve time(MPI):14.061816 
+countbuf=0
+V1+P solve time(MPI):14.390132 
+countbuf=0
+V1+P solve time(MPI):14.407845 
+countbuf=0
+
+Other  not happen.
+V1+P solve time(MPI):14.806611 
+countbuf=0
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+ed_idx-st_idx:1536
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+ed_idx-st_idx:1536
+=======kspSolve start======
+=======kspSolve start======
+ed_idx-st_idx:1536
+=======kspSolve start======
+=======kspSolve start======
+ed_idx-st_idx:1536
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+V2+P solve time(MPI):11.662227 
+Memory Usage after allocation: 476348 KB
+Memory Usage after allocation: 473492 KB
+Memory Usage after allocation: 463340 KB
+Memory Usage after allocation: 467084 KB
+Memory Usage after allocation: 452992 KB
+Memory Usage after allocation: 453184 KB
+Memory Usage after allocation: 455248 KB
+start startrho fmodel.NX=32
+s=1
+V2+P solve time(MPI):11.592007 
+Memory Usage after allocation: 471640 KB
+Memory Usage after allocation: 497464 KB
+Memory Usage after allocation: 446960 KB
+Memory Usage after allocation: 447476 KB
+Memory Usage after allocation: 481880 KB
+Memory Usage after allocation: 462776 KB
+Memory Usage after allocation: 451692 KB
+start startrho fmodel.NX=32
+V2+P solve time(MPI):11.749316 
+s=5
+Memory Usage after allocation: 446400 KB
+Memory Usage after allocation: 448052 KB
+Memory Usage after allocation: 472872 KB
+Memory Usage after allocation: 464508 KB
+Memory Usage after allocation: 467492 KB
+Memory Usage after allocation: 422952 KB
+Memory Usage after allocation: 476496 KB
+start startrho fmodel.NX=32
+s=4
+V2+P solve time(MPI):11.634705 
+Memory Usage after allocation: 473040 KB
+Memory Usage after allocation: 447628 KB
+Memory Usage after allocation: 465656 KB
+Memory Usage after allocation: 452608 KB
+Memory Usage after allocation: 463400 KB
+Memory Usage after allocation: 473720 KB
+Memory Usage after allocation: 453660 KB
+start startrho fmodel.NX=32
+start for循环
+s=3
+PhaseXX mid: 42.637172
+PhaseXY mid: 45.933226
+PhaseYX mid: 45.933226
+PhaseYY mid: 42.637172
+RseXX mid: 0.019499
+RseXY mid: 47.736654
+RseYX mid: 47.736654
+RseYY mid: 0.019499
+Memory Usage after allocation: 452768 KB
+V2+P solve time(MPI):11.687094 
+Memory Usage after allocation: 464120 KB
+Memory Usage after allocation: 464860 KB
+Memory Usage after allocation: 466336 KB
+Memory Usage after allocation: 484772 KB
+Memory Usage after allocation: 454148 KB
+Memory Usage after allocation: 478348 KB
+Memory Usage after allocation: 477884 KB
+start startrho fmodel.NX=32
+s=6
+
+Other  not happen.
+V2+P solve time(MPI):11.086464 
+Memory Usage after allocation: 461680 KB
+Memory Usage after allocation: 497500 KB
+Memory Usage after allocation: 452716 KB
+Memory Usage after allocation: 498352 KB
+Memory Usage after allocation: 447908 KB
+Memory Usage after allocation: 452888 KB
+Memory Usage after allocation: 449672 KB
+start startrho fmodel.NX=32
+s=0
+V2+P solve time(MPI):11.570095 
+Memory Usage after allocation: 500620 KB
+Memory Usage after allocation: 492376 KB
+Memory Usage after allocation: 452584 KB
+Memory Usage after allocation: 463604 KB
+Memory Usage after allocation: 462200 KB
+Memory Usage after allocation: 478820 KB
+Memory Usage after allocation: 476092 KB
+start startrho fmodel.NX=32
+s=7
+start for循环
+PhaseXX mid: 41.582574
+PhaseXY mid: 46.278622
+PhaseYX mid: 46.278622
+PhaseYY mid: 41.582574
+RseXX mid: 0.018876
+RseXY mid: 48.428201
+RseYX mid: 48.428201
+RseYY mid: 0.018876
+Memory Usage after allocation: 492060 KB
+V2+P solve time(MPI):11.643778 
+Memory Usage after allocation: 462700 KB
+Memory Usage after allocation: 464868 KB
+Memory Usage after allocation: 504720 KB
+Memory Usage after allocation: 475764 KB
+Memory Usage after allocation: 464204 KB
+Memory Usage after allocation: 439108 KB
+Memory Usage after allocation: 477116 KB
+start startrho fmodel.NX=32
+s=2
+start for循环
+PhaseXX mid: 41.145575
+PhaseXY mid: 46.411408
+PhaseYX mid: 46.411408
+PhaseYY mid: 41.145575
+RseXX mid: 0.018629
+RseXY mid: 48.708445
+RseYX mid: 48.708445
+RseYY mid: 0.018629
+Memory Usage after allocation: 487172 KB
+start for循环
+PhaseXX mid: 40.744731
+PhaseXY mid: 46.528397
+PhaseYX mid: 46.528397
+PhaseYY mid: 40.744731
+RseXX mid: 0.018409
+RseXY mid: 48.962915
+RseYX mid: 48.962915
+RseYY mid: 0.018409
+Memory Usage after allocation: 517992 KB
+start for循环
+PhaseXX mid: 43.355515
+PhaseXY mid: 45.673842
+PhaseYX mid: 45.673842
+PhaseYY mid: 43.355515
+RseXX mid: 0.019950
+RseXY mid: 47.250341
+RseYX mid: 47.250341
+RseYY mid: 0.019950
+Memory Usage after allocation: 480992 KB
+start for循环
+PhaseXX mid: 40.371303
+PhaseXY mid: 46.633404
+PhaseYX mid: 46.633404
+PhaseYY mid: 40.371303
+RseXX mid: 0.018209
+RseXY mid: 49.198044
+RseYX mid: 49.198044
+RseYY mid: 0.018209
+Memory Usage after allocation: 481436 KB
+start for循环
+PhaseXX mid: 40.019567
+PhaseXY mid: 46.728888
+PhaseYX mid: 46.728888
+PhaseYY mid: 40.019567
+RseXX mid: 0.018024
+RseXY mid: 49.417988
+RseYX mid: 49.417988
+RseYY mid: 0.018024
+Memory Usage after allocation: 482728 KB
+start for循环
+PhaseXX mid: 42.070343
+PhaseXY mid: 46.123527
+PhaseYX mid: 46.123527
+PhaseYY mid: 42.070343
+RseXX mid: 0.019159
+RseXY mid: 48.111317
+RseYX mid: 48.111317
+RseYY mid: 0.019159
+Memory Usage after allocation: 487040 KB
+===fmodel time(MPI):27.323653 seconds

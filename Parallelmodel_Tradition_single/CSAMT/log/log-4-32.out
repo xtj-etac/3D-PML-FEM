@@ -1,0 +1,74 @@
+Initial Memory Usage:18092.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+开始计算v0
+_v0_time=2.571020
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:1633
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):145.871179 
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:1633
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):145.519625 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 43.106175
+PhaseXY mid: 46.179849
+PhaseYX mid: 46.024545
+PhaseYY mid: 42.756029
+RseXX mid: 0.007248
+RseXY mid: 36.890263
+RseYX mid: 40.829342
+RseYY mid: 0.015870
+fmodel time(MPI):295.051037 seconds
+Memory Usage after allocation: 1.84502e+06 KB
+Memory Usage after allocation: 1.7981e+06 KB
+Memory Usage after allocation: 1.7975e+06 KB
+Memory Usage after allocation: 1.81512e+06 KB
+Memory Usage after allocation: 1.78816e+06 KB
+Memory Usage after allocation: 1.93883e+06 KB
+Memory Usage after allocation: 1.72374e+06 KB
+Memory Usage after allocation: 1.77453e+06 KB
+Memory Usage after allocation: 1.7797e+06 KB
+Memory Usage after allocation: 1.58124e+06 KB
+Memory Usage after allocation: 1.58596e+06 KB
+Memory Usage after allocation: 1.54143e+06 KB
+Memory Usage after allocation: 1.53727e+06 KB
+Memory Usage after allocation: 1.76932e+06 KB
+Memory Usage after allocation: 1.73956e+06 KB
+Memory Usage after allocation: 1.5447e+06 KB
+Memory Usage after allocation: 1.80388e+06 KB
+Memory Usage after allocation: 1.59535e+06 KB
+Memory Usage after allocation: 1.77129e+06 KB
+Memory Usage after allocation: 1.75536e+06 KB
+Memory Usage after allocation: 1.69488e+06 KB
+Memory Usage after allocation: 1.80852e+06 KB
+Memory Usage after allocation: 1.84558e+06 KB
+Memory Usage after allocation: 1.85045e+06 KB
+Memory Usage after allocation: 1.78888e+06 KB
+Memory Usage after allocation: 1.4887e+06 KB
+Memory Usage after allocation: 1.81762e+06 KB
+Memory Usage after allocation: 1.87914e+06 KB
+Memory Usage after allocation: 1.50115e+06 KB
+Memory Usage after allocation: 1.74568e+06 KB
+Memory Usage after allocation: 1.4847e+06 KB
+Memory Usage after allocation: 1.67741e+06 KB

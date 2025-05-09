@@ -1,0 +1,106 @@
+Initial Memory Usage:17548.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+开始计算v0
+_v0_time=1.619230
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:816
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):137.858236 
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:816
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):137.603759 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 43.106175
+PhaseXY mid: 46.179849
+PhaseYX mid: 46.024545
+PhaseYY mid: 42.756029
+RseXX mid: 0.007248
+RseXY mid: 36.890263
+RseYX mid: 40.829342
+RseYY mid: 0.015870
+fmodel time(MPI):278.171245 seconds
+Memory Usage after allocation: 988648 KB
+Memory Usage after allocation: 966300 KB
+Memory Usage after allocation: 941664 KB
+Memory Usage after allocation: 979584 KB
+Memory Usage after allocation: 1.00276e+06 KB
+Memory Usage after allocation: 953520 KB
+Memory Usage after allocation: 1.08648e+06 KB
+Memory Usage after allocation: 951720 KB
+Memory Usage after allocation: 959500 KB
+Memory Usage after allocation: 968896 KB
+Memory Usage after allocation: 976072 KB
+Memory Usage after allocation: 981544 KB
+Memory Usage after allocation: 978560 KB
+Memory Usage after allocation: 988796 KB
+Memory Usage after allocation: 977064 KB
+Memory Usage after allocation: 1.01127e+06 KB
+Memory Usage after allocation: 967004 KB
+Memory Usage after allocation: 1.05657e+06 KB
+Memory Usage after allocation: 1.06707e+06 KB
+Memory Usage after allocation: 948088 KB
+Memory Usage after allocation: 943356 KB
+Memory Usage after allocation: 1.01186e+06 KB
+Memory Usage after allocation: 980740 KB
+Memory Usage after allocation: 942888 KB
+Memory Usage after allocation: 1.01198e+06 KB
+Memory Usage after allocation: 959856 KB
+Memory Usage after allocation: 961604 KB
+Memory Usage after allocation: 973316 KB
+Memory Usage after allocation: 1.00189e+06 KB
+Memory Usage after allocation: 1.06377e+06 KB
+Memory Usage after allocation: 989596 KB
+Memory Usage after allocation: 1.04556e+06 KB
+Memory Usage after allocation: 972076 KB
+Memory Usage after allocation: 1.05955e+06 KB
+Memory Usage after allocation: 990800 KB
+Memory Usage after allocation: 974492 KB
+Memory Usage after allocation: 984648 KB
+Memory Usage after allocation: 1.18452e+06 KB
+Memory Usage after allocation: 943896 KB
+Memory Usage after allocation: 1.0164e+06 KB
+Memory Usage after allocation: 992000 KB
+Memory Usage after allocation: 994568 KB
+Memory Usage after allocation: 980704 KB
+Memory Usage after allocation: 951120 KB
+Memory Usage after allocation: 984916 KB
+Memory Usage after allocation: 1.00088e+06 KB
+Memory Usage after allocation: 1.01914e+06 KB
+Memory Usage after allocation: 994616 KB
+Memory Usage after allocation: 938516 KB
+Memory Usage after allocation: 1.00695e+06 KB
+Memory Usage after allocation: 984488 KB
+Memory Usage after allocation: 936232 KB
+Memory Usage after allocation: 972748 KB
+Memory Usage after allocation: 944096 KB
+Memory Usage after allocation: 1.09617e+06 KB
+Memory Usage after allocation: 989544 KB
+Memory Usage after allocation: 970456 KB
+Memory Usage after allocation: 1.00054e+06 KB
+Memory Usage after allocation: 1.04286e+06 KB
+Memory Usage after allocation: 983136 KB
+Memory Usage after allocation: 948616 KB
+Memory Usage after allocation: 986608 KB
+Memory Usage after allocation: 1.04954e+06 KB
+Memory Usage after allocation: 1.18161e+06 KB

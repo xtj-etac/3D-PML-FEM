@@ -1,0 +1,170 @@
+Initial Memory Usage:17844.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+开始计算v0
+_v0_time=0.846420
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:408
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):122.773194 
+A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:408
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):121.943598 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 43.106175
+PhaseXY mid: 46.179849
+PhaseYX mid: 46.024545
+PhaseYY mid: 42.756029
+RseXX mid: 0.007248
+RseXY mid: 36.890263
+RseYX mid: 40.829342
+RseYY mid: 0.015870
+fmodel time(MPI):246.090772 seconds
+Memory Usage after allocation: 614528 KB
+Memory Usage after allocation: 555912 KB
+Memory Usage after allocation: 573108 KB
+Memory Usage after allocation: 638920 KB
+Memory Usage after allocation: 625780 KB
+Memory Usage after allocation: 641952 KB
+Memory Usage after allocation: 611472 KB
+Memory Usage after allocation: 604608 KB
+Memory Usage after allocation: 630300 KB
+Memory Usage after allocation: 584012 KB
+Memory Usage after allocation: 564280 KB
+Memory Usage after allocation: 705568 KB
+Memory Usage after allocation: 594496 KB
+Memory Usage after allocation: 603304 KB
+Memory Usage after allocation: 557840 KB
+Memory Usage after allocation: 570836 KB
+Memory Usage after allocation: 671516 KB
+Memory Usage after allocation: 605180 KB
+Memory Usage after allocation: 577864 KB
+Memory Usage after allocation: 608624 KB
+Memory Usage after allocation: 624004 KB
+Memory Usage after allocation: 568640 KB
+Memory Usage after allocation: 626520 KB
+Memory Usage after allocation: 585676 KB
+Memory Usage after allocation: 569564 KB
+Memory Usage after allocation: 582388 KB
+Memory Usage after allocation: 645348 KB
+Memory Usage after allocation: 614112 KB
+Memory Usage after allocation: 609244 KB
+Memory Usage after allocation: 573756 KB
+Memory Usage after allocation: 598612 KB
+Memory Usage after allocation: 635676 KB
+Memory Usage after allocation: 709608 KB
+Memory Usage after allocation: 625144 KB
+Memory Usage after allocation: 645040 KB
+Memory Usage after allocation: 711228 KB
+Memory Usage after allocation: 683396 KB
+Memory Usage after allocation: 629824 KB
+Memory Usage after allocation: 664900 KB
+Memory Usage after allocation: 570120 KB
+Memory Usage after allocation: 642376 KB
+Memory Usage after allocation: 644484 KB
+Memory Usage after allocation: 612524 KB
+Memory Usage after allocation: 610816 KB
+Memory Usage after allocation: 578068 KB
+Memory Usage after allocation: 625632 KB
+Memory Usage after allocation: 639116 KB
+Memory Usage after allocation: 653500 KB
+Memory Usage after allocation: 572920 KB
+Memory Usage after allocation: 670244 KB
+Memory Usage after allocation: 624472 KB
+Memory Usage after allocation: 656588 KB
+Memory Usage after allocation: 588640 KB
+Memory Usage after allocation: 651464 KB
+Memory Usage after allocation: 636656 KB
+Memory Usage after allocation: 675260 KB
+Memory Usage after allocation: 619508 KB
+Memory Usage after allocation: 578164 KB
+Memory Usage after allocation: 559176 KB
+Memory Usage after allocation: 659904 KB
+Memory Usage after allocation: 655372 KB
+Memory Usage after allocation: 590304 KB
+Memory Usage after allocation: 610192 KB
+Memory Usage after allocation: 594888 KB
+Memory Usage after allocation: 637916 KB
+Memory Usage after allocation: 566012 KB
+Memory Usage after allocation: 650688 KB
+Memory Usage after allocation: 663312 KB
+Memory Usage after allocation: 567220 KB
+Memory Usage after allocation: 622240 KB
+Memory Usage after allocation: 598476 KB
+Memory Usage after allocation: 688420 KB
+Memory Usage after allocation: 697968 KB
+Memory Usage after allocation: 627548 KB
+Memory Usage after allocation: 616564 KB
+Memory Usage after allocation: 687136 KB
+Memory Usage after allocation: 607552 KB
+Memory Usage after allocation: 582492 KB
+Memory Usage after allocation: 582444 KB
+Memory Usage after allocation: 608060 KB
+Memory Usage after allocation: 627368 KB
+Memory Usage after allocation: 612800 KB
+Memory Usage after allocation: 670172 KB
+Memory Usage after allocation: 635804 KB
+Memory Usage after allocation: 656648 KB
+Memory Usage after allocation: 650188 KB
+Memory Usage after allocation: 685556 KB
+Memory Usage after allocation: 691924 KB
+Memory Usage after allocation: 584328 KB
+Memory Usage after allocation: 579848 KB
+Memory Usage after allocation: 602792 KB
+Memory Usage after allocation: 588224 KB
+Memory Usage after allocation: 660732 KB
+Memory Usage after allocation: 720048 KB
+Memory Usage after allocation: 556928 KB
+Memory Usage after allocation: 629592 KB
+Memory Usage after allocation: 640316 KB
+Memory Usage after allocation: 666180 KB
+Memory Usage after allocation: 662740 KB
+Memory Usage after allocation: 642168 KB
+Memory Usage after allocation: 625440 KB
+Memory Usage after allocation: 708584 KB
+Memory Usage after allocation: 595112 KB
+Memory Usage after allocation: 678024 KB
+Memory Usage after allocation: 716668 KB
+Memory Usage after allocation: 589248 KB
+Memory Usage after allocation: 560244 KB
+Memory Usage after allocation: 575876 KB
+Memory Usage after allocation: 644984 KB
+Memory Usage after allocation: 733700 KB
+Memory Usage after allocation: 674596 KB
+Memory Usage after allocation: 630892 KB
+Memory Usage after allocation: 568756 KB
+Memory Usage after allocation: 675144 KB
+Memory Usage after allocation: 551040 KB
+Memory Usage after allocation: 610696 KB
+Memory Usage after allocation: 602604 KB
+Memory Usage after allocation: 680984 KB
+Memory Usage after allocation: 657788 KB
+Memory Usage after allocation: 560552 KB
+Memory Usage after allocation: 598464 KB
+Memory Usage after allocation: 687696 KB
+Memory Usage after allocation: 607228 KB
+Memory Usage after allocation: 670692 KB
+Memory Usage after allocation: 686248 KB
+Memory Usage after allocation: 593560 KB
+Memory Usage after allocation: 563008 KB
+Memory Usage after allocation: 660176 KB

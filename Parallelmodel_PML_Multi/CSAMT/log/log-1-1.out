@@ -1,0 +1,347 @@
+Initial Memory Usage: 7984 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+开始计算v0
+_v0_time=9.692762
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):51.554457 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):48.499385 
+start startrho fmodel.NX=32
+s=0
+start for循环
+PhaseXX mid: 43.355515
+PhaseXY mid: 45.673842
+PhaseYX mid: 45.673842
+PhaseYY mid: 43.355515
+RseXX mid: 0.019950
+RseXY mid: 47.250341
+RseYX mid: 47.250341
+RseYY mid: 0.019950
+Freq=1  rank=0 f[Freq]=0.250000
+start fmodel
+开始计算v0
+_v0_time=8.296948
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):44.137564 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):44.874707 
+start startrho fmodel.NX=32
+s=1
+start for循环
+PhaseXX mid: 42.637172
+PhaseXY mid: 45.933226
+PhaseYX mid: 45.933226
+PhaseYY mid: 42.637172
+RseXX mid: 0.019499
+RseXY mid: 47.736654
+RseYX mid: 47.736654
+RseYY mid: 0.019499
+Freq=2  rank=0 f[Freq]=0.375000
+start fmodel
+开始计算v0
+_v0_time=7.691890
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):43.796196 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):41.808788 
+start startrho fmodel.NX=32
+s=2
+start for循环
+PhaseXX mid: 42.070343
+PhaseXY mid: 46.123527
+PhaseYX mid: 46.123527
+PhaseYY mid: 42.070343
+RseXX mid: 0.019159
+RseXY mid: 48.111317
+RseYX mid: 48.111317
+RseYY mid: 0.019159
+Freq=3  rank=0 f[Freq]=0.500000
+start fmodel
+开始计算v0
+_v0_time=7.607589
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):44.321097 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):46.774333 
+start startrho fmodel.NX=32
+s=3
+start for循环
+PhaseXX mid: 41.582574
+PhaseXY mid: 46.278622
+PhaseYX mid: 46.278622
+PhaseYY mid: 41.582574
+RseXX mid: 0.018876
+RseXY mid: 48.428201
+RseYX mid: 48.428201
+RseYY mid: 0.018876
+Freq=4  rank=0 f[Freq]=0.625000
+start fmodel
+开始计算v0
+_v0_time=7.356066
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):38.967302 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):45.391474 
+start startrho fmodel.NX=32
+s=4
+start for循环
+PhaseXX mid: 41.145575
+PhaseXY mid: 46.411408
+PhaseYX mid: 46.411408
+PhaseYY mid: 41.145575
+RseXX mid: 0.018629
+RseXY mid: 48.708445
+RseYX mid: 48.708445
+RseYY mid: 0.018629
+Freq=5  rank=0 f[Freq]=0.750000
+start fmodel
+开始计算v0
+_v0_time=7.543268
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):48.373781 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):41.227571 
+start startrho fmodel.NX=32
+s=5
+start for循环
+PhaseXX mid: 40.744731
+PhaseXY mid: 46.528397
+PhaseYX mid: 46.528397
+PhaseYY mid: 40.744731
+RseXX mid: 0.018409
+RseXY mid: 48.962915
+RseYX mid: 48.962915
+RseYY mid: 0.018409
+Freq=6  rank=0 f[Freq]=0.875000
+start fmodel
+开始计算v0
+_v0_time=7.411914
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):42.329040 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):46.856332 
+start startrho fmodel.NX=32
+s=6
+start for循环
+PhaseXX mid: 40.371303
+PhaseXY mid: 46.633404
+PhaseYX mid: 46.633404
+PhaseYY mid: 40.371303
+RseXX mid: 0.018209
+RseXY mid: 49.198044
+RseYX mid: 49.198044
+RseYY mid: 0.018209
+Freq=7  rank=0 f[Freq]=1.000000
+start fmodel
+开始计算v0
+_v0_time=7.606787
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V1+P solve time(MPI):42.980327 
+countbuf=0
+EpyBstart=6
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:12288
+=======kspSolve start======
+
+Other  not happen.
+V2+P solve time(MPI):41.033206 
+start startrho fmodel.NX=32
+s=7
+start for循环
+PhaseXX mid: 40.019567
+PhaseXY mid: 46.728888
+PhaseYX mid: 46.728888
+PhaseYY mid: 40.019567
+RseXX mid: 0.018024
+RseXY mid: 49.417988
+RseYX mid: 49.417988
+RseYY mid: 0.018024
+Memory Usage after allocation: 4.87658e+06 KB
+===fmodel time(MPI):780.380917 seconds

@@ -1,0 +1,245 @@
+Initial Memory Usage: 8080 KB
+Initial Memory Usage: 8000 KB
+Initial Memory Usage: 8072 KB
+Initial Memory Usage: 8028 KB
+Initial Memory Usage: 7952 KB
+Initial Memory Usage: 8076 KB
+Initial Memory Usage: 7920 KB
+Initial Memory Usage: 8076 KB
+Initial Memory Usage: 7916 KB
+Initial Memory Usage: 7908 KB
+Initial Memory Usage: 7984 KB
+Initial Memory Usage: 7944 KB
+Initial Memory Usage: 8004 KB
+Initial Memory Usage: 7996 KB
+Initial Memory Usage: 8080 KB
+Initial Memory Usage: 8060 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+Freq=1  rank=0 f[Freq]=0.250000
+start fmodel
+Freq=2  rank=0 f[Freq]=0.375000
+start fmodel
+Freq=3  rank=0 f[Freq]=0.500000
+start fmodel
+Freq=4  rank=0 f[Freq]=0.625000
+start fmodel
+Freq=5  rank=0 f[Freq]=0.750000
+start fmodel
+Freq=6  rank=0 f[Freq]=0.875000
+start fmodel
+Freq=7  rank=0 f[Freq]=1.000000
+start fmodel
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+_v0_time=4.220531
+_v0_time=4.224072
+_v0_time=4.224658
+_v0_time=4.252057
+_v0_time=4.310813
+_v0_time=4.353536
+_v0_time=4.365719
+_v0_time=4.380935
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+V1+P solve time(MPI):21.337248 
+countbuf=0
+V1+P solve time(MPI):21.628512 
+countbuf=0
+V1+P solve time(MPI):21.529952 
+countbuf=0
+V1+P solve time(MPI):21.636831 
+countbuf=0
+V1+P solve time(MPI):21.964798 
+countbuf=0
+V1+P solve time(MPI):21.836292 
+countbuf=0
+
+Other  not happen.
+V1+P solve time(MPI):22.102311 
+countbuf=0
+V1+P solve time(MPI):22.340573 
+countbuf=0
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+EpyBstart=6
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+A Bid(1056)
+A Bid(3040)
+A Bid(4096)
+A Bid(5152)
+A Bid(7136)
+A Bid(8192)
+A Bid(idn7=12288)
+A 2
+ed_idx-st_idx:6144
+ed_idx-st_idx:6144
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+ed_idx-st_idx:6144
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+V2+P solve time(MPI):21.743816 
+Memory Usage after allocation: 1.29366e+06 KB
+start startrho fmodel.NX=32
+s=5
+V2+P solve time(MPI):21.854902 
+Memory Usage after allocation: 1.29519e+06 KB
+start startrho fmodel.NX=32
+s=1
+V2+P solve time(MPI):21.579754 
+Memory Usage after allocation: 1.29358e+06 KB
+start startrho fmodel.NX=32
+s=3
+start for循环
+PhaseXX mid: 42.637172
+PhaseXY mid: 45.933226
+PhaseYX mid: 45.933226
+PhaseYY mid: 42.637172
+RseXX mid: 0.019499
+RseXY mid: 47.736654
+RseYX mid: 47.736654
+RseYY mid: 0.019499
+Memory Usage after allocation: 1.3958e+06 KB
+V2+P solve time(MPI):21.691732 
+Memory Usage after allocation: 1.29345e+06 KB
+start startrho fmodel.NX=32
+s=4
+V2+P solve time(MPI):21.948989 
+Memory Usage after allocation: 1.295e+06 KB
+start startrho fmodel.NX=32
+s=7
+V2+P solve time(MPI):22.085001 
+start startrho fmodel.NX=32
+Memory Usage after allocation: 1.29272e+06 KB
+s=2
+start for循环
+PhaseXX mid: 41.145575
+PhaseXY mid: 46.411408
+PhaseYX mid: 46.411408
+PhaseYY mid: 41.145575
+RseXX mid: 0.018629
+RseXY mid: 48.708445
+RseYX mid: 48.708445
+RseYY mid: 0.018629
+Memory Usage after allocation: 1.4233e+06 KB
+start for循环
+PhaseXX mid: 41.582574
+PhaseXY mid: 46.278622
+PhaseYX mid: 46.278622
+PhaseYY mid: 41.582574
+RseXX mid: 0.018876
+RseXY mid: 48.428201
+RseYX mid: 48.428201
+RseYY mid: 0.018876
+Memory Usage after allocation: 1.39296e+06 KB
+start for循环
+PhaseXX mid: 40.019567
+PhaseXY mid: 46.728888
+PhaseYX mid: 46.728888
+PhaseYY mid: 40.019567
+RseXX mid: 0.018024
+RseXY mid: 49.417988
+RseYX mid: 49.417988
+RseYY mid: 0.018024
+Memory Usage after allocation: 1.39524e+06 KB
+
+Other  not happen.
+V2+P solve time(MPI):21.951389 
+Memory Usage after allocation: 1.32344e+06 KB
+start startrho fmodel.NX=32
+s=0
+V2+P solve time(MPI):21.804672 
+Memory Usage after allocation: 1.29317e+06 KB
+start startrho fmodel.NX=32
+s=6
+start for循环
+PhaseXX mid: 42.070343
+PhaseXY mid: 46.123527
+PhaseYX mid: 46.123527
+PhaseYY mid: 42.070343
+RseXX mid: 0.019159
+RseXY mid: 48.111317
+RseYX mid: 48.111317
+RseYY mid: 0.019159
+Memory Usage after allocation: 1.39293e+06 KB
+start for循环
+PhaseXX mid: 40.371303
+PhaseXY mid: 46.633404
+PhaseYX mid: 46.633404
+PhaseYY mid: 40.371303
+RseXX mid: 0.018209
+RseXY mid: 49.198044
+RseYX mid: 49.198044
+RseYY mid: 0.018209
+Memory Usage after allocation: 1.42367e+06 KB
+start for循环
+PhaseXX mid: 40.744731
+PhaseXY mid: 46.528397
+PhaseYX mid: 46.528397
+PhaseYY mid: 40.744731
+RseXX mid: 0.018409
+RseXY mid: 48.962915
+RseYX mid: 48.962915
+RseYY mid: 0.018409
+Memory Usage after allocation: 1.39559e+06 KB
+start for循环
+PhaseXX mid: 43.355515
+PhaseXY mid: 45.673842
+PhaseYX mid: 45.673842
+PhaseYY mid: 43.355515
+RseXX mid: 0.019950
+RseXY mid: 47.250341
+RseYX mid: 47.250341
+RseYY mid: 0.019950
+Memory Usage after allocation: 1.42371e+06 KB
+===fmodel time(MPI):48.664354 seconds

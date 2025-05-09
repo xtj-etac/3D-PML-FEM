@@ -1,0 +1,222 @@
+Initial Memory Usage:17888.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+Freq=1  rank=0 f[Freq]=0.250000
+start fmodel
+Freq=4  rank=0 f[Freq]=0.625000
+start fmodel
+Freq=6  rank=0 f[Freq]=0.875000
+start fmodel
+Freq=7  rank=0 f[Freq]=1.000000
+start fmodel
+Freq=2  rank=0 f[Freq]=0.375000
+start fmodel
+Freq=5  rank=0 f[Freq]=0.750000
+start fmodel
+Freq=3  rank=0 f[Freq]=0.500000
+start fmodel
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+_v0_time=73.460836
+_v0_time=74.271431
+_v0_time=75.043264
+_v0_time=75.055197
+_v0_time=74.028236
+_v0_time=76.366561
+_v0_time=78.239074
+_v0_time=79.153995
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+P=(K3+K4)*EpA Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+V1+P solve time(MPI):1029.517767 
+V1+P solve time(MPI):1110.703410 
+V1+P solve time(MPI):1131.791709 
+V1+P solve time(MPI):1217.422133 
+V1+P solve time(MPI):1272.298617 
+
+Other  not happen.
+V1+P solve time(MPI):1325.215212 
+V1+P solve time(MPI):1344.759709 
+V1+P solve time(MPI):1369.082953 
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+P=(K3+K4)*Ep闁诲海鎳撻張顒勫垂濮濇樆A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+ed_idx-st_idx:52272
+MatZeroRowsColumns_V1 time(MPI):0.172833
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.166590
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.172241
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.166531
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.170917
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.170052
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.180474
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.233026
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+V2+P solve time(MPI):1395.826579 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 40.926946
+PhaseXY mid: 47.162738
+PhaseYX mid: 46.881432
+PhaseYY mid: 40.298957
+RseXX mid: 0.006815
+RseXY mid: 38.552948
+RseYX mid: 42.422058
+RseYY mid: 0.014720
+V2+P solve time(MPI):1349.545504 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 39.859480
+PhaseXY mid: 47.546213
+PhaseYX mid: 47.216427
+PhaseYY mid: 39.130560
+RseXX mid: 0.006626
+RseXY mid: 39.310545
+RseYX mid: 43.145844
+RseYY mid: 0.014226
+V2+P solve time(MPI):1411.868390 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 39.376925
+PhaseXY mid: 47.703001
+PhaseYX mid: 47.353477
+PhaseYY mid: 38.608650
+RseXX mid: 0.006544
+RseXY mid: 39.642693
+RseYX mid: 43.462804
+RseYY mid: 0.014013
+V2+P solve time(MPI):1347.797901 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 40.372931
+PhaseXY mid: 47.368435
+PhaseYX mid: 47.061085
+PhaseYY mid: 39.690065
+RseXX mid: 0.006715
+RseXY mid: 38.950230
+RseYX mid: 42.801755
+RseYY mid: 0.014459
+V2+P solve time(MPI):1377.951897 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 41.537773
+PhaseXY mid: 46.917416
+PhaseYX mid: 46.667306
+PhaseYY mid: 40.977056
+RseXX mid: 0.006929
+RseXY mid: 38.103916
+RseYX mid: 41.992512
+RseYY mid: 0.015022
+
+Other  not happen.
+V2+P solve time(MPI):1324.115551 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 43.106175
+PhaseXY mid: 46.179849
+PhaseYX mid: 46.024545
+PhaseYY mid: 42.756029
+RseXX mid: 0.007248
+RseXY mid: 36.890263
+RseYX mid: 40.829342
+RseYY mid: 0.015870
+V2+P solve time(MPI):1337.113382 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 42.237030
+PhaseXY mid: 46.609569
+PhaseYX mid: 46.398833
+PhaseYY mid: 41.762940
+RseXX mid: 0.007066
+RseXY mid: 37.574373
+RseYX mid: 41.485402
+RseYY mid: 0.015385
+V2+P solve time(MPI):1323.341186 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 38.918952
+PhaseXY mid: 47.843298
+PhaseYX mid: 47.476146
+PhaseYY mid: 38.116638
+RseXX mid: 0.006469
+RseXY mid: 39.952423
+RseYX mid: 43.758171
+RseYY mid: 0.013818
+fmodel time(MPI):2733.852547 seconds
+Memory Usage after allocation: 3.70018e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: 3.6935e+07 KB
+3.69487e+07 KB
+3.69323e+07 KB
+3.6934e+07 KB
+3.69292e+07 KB
+3.70634e+07 KB
+Memory Usage after allocation: 3.69325e+07 KB

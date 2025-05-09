@@ -1,0 +1,294 @@
+Initial Memory Usage:17824.000000 KB
+Freq=0  rank=0 f[Freq]=0.125000
+start fmodel
+Freq=1  rank=0 f[Freq]=0.250000
+start fmodel
+Freq=4  rank=0 f[Freq]=0.625000
+start fmodel
+Freq=6  rank=0 f[Freq]=0.875000
+start fmodel
+Freq=5  rank=0 f[Freq]=0.750000
+start fmodel
+Freq=7  rank=0 f[Freq]=1.000000
+start fmodel
+Freq=2  rank=0 f[Freq]=0.375000
+start fmodel
+Freq=3  rank=0 f[Freq]=0.500000
+start fmodel
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+开始计算v0
+_v0_time=20.955162
+_v0_time=20.967563
+_v0_time=21.065752
+_v0_time=21.197055
+_v0_time=21.446612
+_v0_time=21.491225
+_v0_time=21.778297
+_v0_time=22.400325
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+ed_idx-st_idx:13068
+ed_idx-st_idx:13068
+ed_idx-st_idx:13068
+ed_idx-st_idx:13068
+P=(K3+K4)*EpA Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:13068
+ed_idx-st_idx:13068
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+=======kspSolve start======
+ed_idx-st_idx:13068
+=======kspSolve start======
+=======kspSolve start======
+ed_idx-st_idx:13068
+=======kspSolve start======
+V1+P solve time(MPI):677.647665 
+V1+P solve time(MPI):737.902653 
+V1+P solve time(MPI):743.476281 
+V1+P solve time(MPI):752.326332 
+V1+P solve time(MPI):764.361659 
+V1+P solve time(MPI):765.137769 
+V1+P solve time(MPI):772.156194 
+
+Other  not happen.
+V1+P solve time(MPI):781.779984 
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+start Bp
+ed_idx-st_idx:13068
+P=(K3+K4)*Ep闁诲海鎳撻張顒勫垂濮濇樆A Bid(4422)
+A Bid(13002)
+A Bid(17424)
+A Bid(21846)
+A Bid(30426)
+A Bid(34848)
+A Bid(idn7=52272)
+A 2
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.048704
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.048272
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+ed_idx-st_idx:13068
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.048758
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.374518
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.048540
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.050075
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+ed_idx-st_idx:13068
+MatZeroRowsColumns_V1 time(MPI):0.048309
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+MatZeroRowsColumns_V1 time(MPI):0.295517
+====閻庢鍠掗崑鎾斥攽椤旂⒈鍎愰柣顏呭閹叉挳鏁撻敓锟�======
+=======kspSolve start======
+V2+P solve time(MPI):816.933764 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 39.859480
+PhaseXY mid: 47.546213
+PhaseYX mid: 47.216427
+PhaseYY mid: 39.130560
+RseXX mid: 0.006626
+RseXY mid: 39.310545
+RseYX mid: 43.145844
+RseYY mid: 0.014226
+V2+P solve time(MPI):777.316158 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 38.918952
+PhaseXY mid: 47.843298
+PhaseYX mid: 47.476146
+PhaseYY mid: 38.116638
+RseXX mid: 0.006469
+RseXY mid: 39.952423
+RseYX mid: 43.758171
+RseYY mid: 0.013818
+V2+P solve time(MPI):821.137302 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 41.537773
+PhaseXY mid: 46.917416
+PhaseYX mid: 46.667306
+PhaseYY mid: 40.977056
+RseXX mid: 0.006929
+RseXY mid: 38.103916
+RseYX mid: 41.992512
+RseYY mid: 0.015022
+V2+P solve time(MPI):819.430298 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 40.372931
+PhaseXY mid: 47.368435
+PhaseYX mid: 47.061085
+PhaseYY mid: 39.690065
+RseXX mid: 0.006715
+RseXY mid: 38.950230
+RseYX mid: 42.801755
+RseYY mid: 0.014459
+V2+P solve time(MPI):799.701498 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 39.376925
+PhaseXY mid: 47.703001
+PhaseYX mid: 47.353477
+PhaseYY mid: 38.608650
+RseXX mid: 0.006544
+RseXY mid: 39.642693
+RseYX mid: 43.462804
+RseYY mid: 0.014013
+V2+P solve time(MPI):814.514502 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 42.237030
+PhaseXY mid: 46.609569
+PhaseYX mid: 46.398833
+PhaseYY mid: 41.762940
+RseXX mid: 0.007066
+RseXY mid: 37.574373
+RseYX mid: 41.485402
+RseYY mid: 0.015385
+V2+P solve time(MPI):826.051143 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 40.926946
+PhaseXY mid: 47.162738
+PhaseYX mid: 46.881432
+PhaseYY mid: 40.298957
+RseXX mid: 0.006815
+RseXY mid: 38.552948
+RseYX mid: 42.422058
+RseYY mid: 0.014720
+
+Other  not happen.
+V2+P solve time(MPI):830.782542 
+start rho   NX=66
+start Zxx
+PhaseXX mid: 43.106175
+PhaseXY mid: 46.179849
+PhaseYX mid: 46.024545
+PhaseYY mid: 42.756029
+RseXX mid: 0.007248
+RseXY mid: 36.890263
+RseYX mid: 40.829342
+RseYY mid: 0.015870
+fmodel time(MPI):1636.349125 seconds
+Memory Usage after allocation: 1.09049e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: 1.07505e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: 1.25645e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: 1.29395e+07 KB
+Memory Usage after allocation: 1.08937e+07 KB
+1.25833e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: 1.2557e+07 KB
+1.28056e+07 KB
+1.24198e+07 KB1.27962e+07 KB
+
+Memory Usage after allocation: Memory Usage after allocation: 1.24327e+07 KB
+1.08973e+07 KB
+1.25539e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: 1.10292e+07 KB
+Memory Usage after allocation: 1.29409e+07 KB
+Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: Memory Usage after allocation: 1.07559e+07 KB
+1.24366e+07 KB
+Memory Usage after allocation: 1.2707e+07 KB
+1.24174e+07 KB
+1.11167e+07 KB
+1.07558e+07 KB
+Memory Usage after allocation: 1.07633e+07 KB
+1.24377e+07 KB
+1.28093e+07 KB
+1.27161e+07 KB
+1.25546e+07 KB
+1.29347e+07 KB
+1.28092e+07 KB
+1.07575e+07 KB
+1.25832e+07 KB
+1.24331e+07 KB
+1.08951e+07 KB
