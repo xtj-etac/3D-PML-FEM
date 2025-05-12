@@ -5,7 +5,7 @@ Tiaojie Xiao;Tian Shu et al.
 2024-11
 ## Language： 
 C++  
-If you use this code in your research, please do not use it for commercial purposes and please provide the source.
+
 
 ## Title:
 Parallel finite element forward modeling of 3-D magnetotelluric conductivity and permeability anisotropy with coupled PML boundary conditions  
@@ -237,5 +237,5 @@ Run in the current directory:
   mpirun -np pro(Number of processes) ./main >log-pro(Number of processes).out 
 ```
 # Citation  
-If you use this code for your research, please cite the paper.
+If you use this code in your research, please do not use it for commercial purposes and please provide the source.
 
