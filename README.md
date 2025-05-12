@@ -70,37 +70,144 @@ Source code directory. The internal files and their functions are listed in the 
 | v2Assembly   | B-source solution   |  
 
 
+### main：
+The executable file generated after compilation.
+### make.inc：
+Includes the paths to library files and several compilation commands.
+### makefile：
+Contains some commands required for compilation.
+### mybatch.sh：
+Script file for running on the Tianhe platform.
+### myenv.sh：
+Environment configuration script required for the current terminal. Use the file myenv_intel_x86.sh on Intel x86 platforms.
+### readme.md：
+Current file.
+### yhrun.sh：
+Code execution script file.
 
+## outfile  
+This directory contains the calculated apparent resistivity and phase under the XY and YX modes.
+The naming convention is as follows:  
+`name:       0+Phase+XY`  
+`            |   |    |`  
+`            |   |    |`  
+`Field ID:   1   2    3`  
 
+The explanation is as follows:  
 
-# Getting Started
-## Installation
+|Field | Description      |
+|------|--------------------------------------------------------|
+|  1   |Test frequency point number, indicating which frequency point's results are being referred to.|
+|  2   |Indicates whether it is Phase (Phase) or Apparent Resistivity (Res).|
+|  3   |Indicates whether the results are from the XY mode or the YX mode.|
+
+# Compile and run
+To facilitate usage, in addition to the compilation and running methods on the TianHe platform described in the paper, we have also tested and provided methods for compiling and running on an Intel platform (Xeon processor).  
+
 Clone  
 $ git clone https://github.com/xtj-etac/3D-PML-FEM.git  
 $ cd 3D-PML-FEM
 
+## TianHe
+Processor：FT-2000+（arm）  
+        If you do not have access to the TianHe system, you can skip this section.  
+        1、Required environment: Modify the paths in the make.inc file according to your own installation paths.  
+        2、Loading environment：export LD_LIBRARY_PATH=/parmetis-4.0.3/build/_install/lib:$LD_LIBRARY_PATH  
+        3、 To check the current command-line environment, use the module list command.  
+            1）To add a new environment:  
+                module add openblas/0.3.12-gcc9.3.0-openmp  
+                module add mpich/mpi-n-gcc9.3.0  
+            2）Use module list to confirm that the environment configuration was successful.  
+        Compile:make  
+        run:Running sh mybatch.sh 1 1 generates a log file named log-X.out, where -X denotes the number of processes.  
+
+## Intel
+Processor：Intel Xeon Gold 5117（x86）
+This test is run on a Linux x86_64 system, with the specific MPI library version being: 
+Intel(R) MPI Library for Linux* OS, Version 2021.6 
+This provides a general guide on how to run the program on Linux systems.
+
 ## Configure your environment
-1、You will need to install the following external libraries:  
-gcc9.3.0、mpich、superlu_dist-8.0.0、petsc-3.20.5 
+1、Install the required environment libraries and place the necessary libraries in the Libraryfile directory.  
 
-2、Then you need to modify the make.inc file: 
-BLAS_DIR     =/Your path/openmp  
-LAPACK_DIR   =/Your path/gcc9.3.0  
-PARMETIS_DIR =/Your path/parmetis-4.0.3  
-METIS_DIR    =/Your path/metis  
-SUPERLU_DIST =/Your path/superlu_dist-8.0.0  
-EIGEN_DIR     =/Your path/eigen-git-mirror-master  
-PETSC_DIR    =/Your path/petsc-3.20.5  
+The library files are as follows:  
+    eigen-git-mirror-master.zip  
+    lapack-3.11.0.tar.gz  
+    OpenBLAS-develop.zip  
+    parmetis-4.0.3.tar.gz  
+    superlu_dist-8.0.0.zip  
+    petsc-3.20.5.tar  
 
-3、Compile your code    
-$ make
+    Unzip these compressed files:  
+    $ unzip eigen-git-mirror-master.zip  
+    $ tar -xzvf lapack-3.11.0.tar.gz  
+    $ unzip OpenBLAS-develop.zip  
+    $ tar -xzvf parmetis-4.0.3.tar.gz  
+    $ unzip superlu_dist-8.0.0.zip  
+    $ tar -xvf petsc-3.20.5.tar  
 
-4、Run your code  
-$ sh mybatch.sh X1 X2 (X1 represents the number of nodes used at run time and X2 represents the total number of processes used at run time)  
+    Installation steps for OpenBLAS:  
+    $ cd OpenBLAS-develop  
+    $ mkdir build  
+    $ cd build  
+    $ cmake .. -DCMAKE_INSTALL_PREFIX=/home/xtj/Qiaosy/Installation/OpenBlas -DUSE_OPENMP=ON  
+    $ make -j  
+    $ make install  
 
-$notice    
-You need to select the mpi run command based on your environment, as shown below:  
-mpiexe -n numpro(Number of processes) ./main
+    Installation steps for lapack:  
+    $ cd lapack-3.11.0  
+    $ mkdir build  
+    $ cd build  
+    $ cmake .. -DCMAKE_INSTALL_PREFIX=/home/xtj/Qiaosy/Installation/lapack  
+    $  make -j  
+    $ make install  
+
+    Installation steps for eigen:  
+    $ cd eigen-git-mirror-master  
+    $ mkdir build  
+    $ cd build  
+    $ cmake .. -DCMAKE_INSTALL_PREFIX=/home/xtj/Qiaosy/Installation/eigen  
+    $ make install  
+
+    Installation steps for parmetis:  
+    $ cd parmetis-4.0.3   
+    $ make config static=1 prefix=/home/xtj/Qiaosy/Installation/parmetis  
+    $ make install  
+
+    Installation steps for metis:  
+    $ cd /home/xtj/Qiaosy/LibraryFile/parmetis-4.0.3/metis  
+    $ make config static=1 prefix=/home/xtj/Qiaosy/Installation/metis  
+    $ make install  
+
+    Configure the environment variables for the current terminal:   
+    Enter the /yourpath/myenv_intel_x86.sh script file, and modify the corresponding paths in the script to match the installation paths of the libraries on your system.
+    In this system, all libraries are installed under the installation directory.  
+
+    Run the script sh myenv_intel_x86.sh. Note that this script must be executed before installing SuperLU_Dist and PETSc.  
+
+    Installation steps for superlu_dist:  
+    $ cd superlu_dist-8.0.0  
+    $ mkdir build  
+    $ cd build  
+    Note:  
+    Check the local CMake version:  cmake --version  
+    Check the first line of code labeled "VERSION" in the file /home/xtj/Qiaosy/LibraryFile/superlu_dist-8.0.0/CMakeLists.txt to confirm whether the version matches.  
+    If it does not match, modify the "VERSION" in the file to match the local version. For example, if the local version is 3.16.1, change the VERSION in the file to VERSION 3.16.1.  
+
+    $ cmake ../ -DCMAKE_INSTALL_PREFIX=/home/xtj/Qiaosy/Installation/superlu_dist -DTPL_PARMETIS_INCLUDE_DIRS="/home/xtj/Qiaosy/Installation/parmetis/include;/home/xtj/Qiaosy/Installation/metis/include" -DTPL_PARMETIS_LIBRARIES="/home/xtj/Qiaosy/Installation/parmetis/lib/libparmetis.a;/home/xtj/Qiaosy/Installation/metis/lib/libmetis.a" -DCMAKE_C_FLAGS="-fPIC" -DCMAKE_CXX_FLAGS="-fPIC"  
+
+  $  make&&make install  
+
+    
+    Installation steps for petsc:  
+  $   cd petsc-3.20.5  
+ $    export PETSC_DIR=/home/xtj/Qiaosy/LibraryFile/petsc-3.20.5  
+  $   export PETSC_ARCH=test  
+ $    ./configure --with-scalar-type=complex --with-mpi-dir=/usr COPTFLAGS='-O3 -g -fPIC -fopenmp -march=native -mtune=native' CXXOPTFLAGES='-O3 -g -fPIC -fopenmp -march=native -mtune=native' FOPTFLAGS='-O3 -g -fPIC -fopenmp -march=native -mtune=native' --with-lapack-lib=[/home/xtj/Qiaosy/Installation/lapack/lib/liblapack.a] --with-openblas-lib=[/home/xtj/Qiaosy/Installation/OpenBlas/lib/libopenblas.a] --with-openblas-include=[/home/xtj/Qiaosy/Installation/OpenBlas/include/openblas] --with-parmetis-lib=[/home/xtj/Qiaosy/Installation/parmetis/lib/libparmetis.a] --with-parmetis-include=[/home/xtj/Qiaosy/Installation/parmetis/include] --with-metis-lib=[/home/xtj/Qiaosy/Installation/metis/lib/libmetis.a] --with-metis-include=[/home/xtj/Qiaosy/Installation/metis/include] --with-superlu_dist-include=[/home/xtj/Qiaosy/Installation/superlu_dist/include] --with-superlu_dist-lib=[/home/xtj/Qiaosy/Installation/superlu_dist/lib/libsuperlu_dist.a]  
+
+    make PETSC_DIR=/home/xtj/Qiaosy/LibraryFile/petsc-3.20.5 PETSC_ARCH=test all  
+
+    Configure the environment variables: export LD_LIBRARY_PATH=/home/xtj/Qiaosy/LibraryFile/petsc-3.20.5/test/lib:$LD_LIBRARY_PATH  
 
 # Citation  
 If you use this code for your research, please cite the paper.
