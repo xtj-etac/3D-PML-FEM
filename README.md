@@ -39,8 +39,15 @@ The directory naming convention is as follows (note that some fields are not man
 | 4     | Indicates the type of model (half-space, air-ground, air-sea-ground, etc.)  |
 | 5     | Indicates the main author of the code                                       |
 | 6     | Indicates the type of permeability (e.g., μ0 for vacuum permeability)      |
+  
+Since each directory (except for the Model 1 directory) contains complete information, we will only provide a detailed description of the contents under the "model2_PML_single_air" directory below. Other directories can be referenced accordingly.
+
+# ==================================model2_PML_single_air=========================================
+CSAMT：Includes all files except the output files.  
+outfile：Includes the output files.  
 
 
+## =========================================CSAMT=================================================
 # Getting Started
 ## Installation
 Clone  
