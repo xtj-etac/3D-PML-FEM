@@ -16,7 +16,7 @@ e-mail xiaotiaojie@nudt.edu.cn
 Tianhe-2 Supercomputer    
 
 ## Brief Introduction  
-This code is for the coupled PML (Perfectly Matched Layer) three-dimensional magnetotelluric anisotropic parallel finite element forward modeling, which includes a single-frequency point parallel test case for model 3 (Figure 11 in the paper).  
+This code is for the coupled PML (Perfectly Matched Layer) three-dimensional magnetotelluric anisotropic parallel finite element forward modeling.
 
 This library contains the original data of all the experiments in the paper. 
 There are 21 directorys in repository.The LibraryFile file contains the library files that need to be installed. The other directories all contain a complete example, code, experimental data, and running log information (except for the directory of Model 1).
