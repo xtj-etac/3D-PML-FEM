@@ -22,14 +22,24 @@ This library contains the original data of all the experiments in the paper.
 There are 21 directorys in repository.The LibraryFile file contains the library files that need to be installed. The other directories all contain a complete example, code, experimental data, and running log information (except for the directory of Model 1).
 Note that in the experiments of Model 1, we compare our results with those computed using the MATLAB code provided by Yang et al. to verify correctness.Due to MATLAB software licensing restrictions, we only provide the experimental data in the Model 1 directory. Note that due to the same code structure, we only provide standardized and detailed code comments in the model2_PML_single_air file.
 
-The directory naming convention is as follows (note that some fields are not mandatory):  
-name:      model_boundary_process_model type_main author of the program_permeability type  
-            |       |        |        |                  |                     |
-            |       |        |        |                  |                     |  
-Field ID:   1       2        3        4                  5                     6
+## Directory Naming Convention  
+The directory naming convention is as follows (note that some fields are not mandatory):
+  
+`name:     model_boundary_process_model type_main author of the program_permeability type`  
+`            |       |        |        |                  |                     |`  
+`            |       |        |        |                  |                     |`  
+`Field ID:   1       2        3        4                  5                     6`  
+### Field Description
 
+| Field | Description                                                                 |
+|-------|-----------------------------------------------------------------------------|
+| 1     | Indicates which model in the paper it refers to                             |
+| 2     | Indicates the adopted boundary conditions                                   |
+| 3     | Indicates whether it is single-process or multi-process in parallel         |
+| 4     | Indicates the type of model (half-space, air-ground, air-sea-ground, etc.)  |
+| 5     | Indicates the main author of the code                                       |
+| 6     | Indicates the type of permeability (e.g., μ0 for vacuum permeability)      |
 
- 
 
 # Getting Started
 ## Installation
